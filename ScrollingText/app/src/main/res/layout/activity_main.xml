@@ -33,7 +33,7 @@
         android:layout_below="@+id/article_subheading"
         android:lineSpacingExtra="5sp"
         android:padding="@dimen/padding_regular"
-        android:text="Article Text"/>
+        android:text="@string/article_text"/>
 
 
 </RelativeLayout>
