@@ -10,10 +10,14 @@
   - Scrolling Function
 <img src="Screenshots/ScrollingImage.gif" width=300/>
 
+# Scrolling Text Challenge
+
 ### Scrolling Text Challenge Application 
 
 - Application Index (Add Comment button added)
 <img src="Screenshots/ScrollingText-AddButton.png" width=300/>
+
+# Scrolling Text 2 Homework
 
 ### Scrolling Text 2 Homework Application 
 
